@@ -75,7 +75,7 @@ p {
 
 body {
     overflow-x: hidden !important;
-    
+
      .bg-img {
           background-image: url("../../assets/img/09647f0589.jpg");
           background-size: cover;
@@ -113,6 +113,7 @@ body {
                          font-size: 27px;
                     }
                }
+
                .nav {
                     @media (max-width: 576px) {
                          flex-direction: column !important;
